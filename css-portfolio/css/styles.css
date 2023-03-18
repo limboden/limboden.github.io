@@ -1,0 +1,100 @@
+/*
+#040F0F - black
+#087E8B - ocean blue
+#47E5BC - Teal
+#81E4DA - baby blue
+#F2CEE6 - pink 
+https://coolors.co/palette/087e8b-81e4da-f2cee6-47e5bc-040f0f
+*/
+
+
+/* Global 
+----------------------------------------------- */
+body {
+  color: #040F0F;
+  margin: 0px;
+  font-family: 'Lora', serif;
+}
+
+img {
+  width: 50px;
+}
+
+a {
+  color: #F2CEE6;
+}
+
+a:hover {
+  color: #f3a0d7;
+}
+
+.content-wrap {
+
+  width: 900px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+
+
+
+/* Profile 
+----------------------------------------------- */
+
+header {
+  background-color: #81E4DA;
+}
+
+
+
+
+
+/* Projects 
+----------------------------------------------- */
+.projects {
+  background: #F2CEE6;
+  padding: 15px;
+
+}
+
+.projects a {
+  background: #040F0F;
+  color: #F2CEE6;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.projects a:hover {
+  color: #f3a0d7;
+}
+
+
+
+
+/* Experience 
+----------------------------------------------- */
+.work {
+  background: #47E5BC;
+}
+
+
+
+
+
+/* Education 
+----------------------------------------------- */
+.education {
+  background: #087E8B;
+}
+
+
+
+
+
+/* Contact Info 
+----------------------------------------------- */
+footer {
+  color: #F2CEE6;
+  background: #000000;
+}
